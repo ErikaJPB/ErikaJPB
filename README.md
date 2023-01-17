@@ -1,11 +1,5 @@
 
-
-### Hi🙋🏻‍♀️, Welcome to my Github Profile!  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
+ 
 ### <div align="center">I'm Erika, a  full-stack developer 👩🏻‍💻 from Colombia.</div>  
   
 
