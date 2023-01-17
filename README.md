@@ -1,9 +1,13 @@
 <br/>  
  
-### <div align="center">Hi👋, I'm Erika, a  full-stack developer 👩🏻‍💻 from Colombia. Welcome to my Github Profile! </div>  
+# <div align="center">Hi👋, I'm Erika, a  Full-Stack Developer 👩🏻‍💻 from Colombia. </div>  
 
 <br/>  
+
   
+### <div align="center">Welcome to my Github Profile!</div>  
+
+<br/> 
 
 - 🔭 I’m currently working on [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)  
   
