@@ -16,7 +16,7 @@
   
 
 - 📧 You can reach me at: erikajpinedab@gmail.com or 
-🔗Visit my [LinkedIn](https://www.linkedin.com/in/erika-pineda-92322b262/)
+🔗Visit my [LinkedIn](https://www.linkedin.com/in/erikajpb/)
   
   
 
