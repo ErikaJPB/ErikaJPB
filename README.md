@@ -9,7 +9,7 @@
 
 <br/> 
 
-- 🔭 I’m currently working on [ACMEtronics](https://github.com/kachamozo/ACMEtronics-front)  
+- 🔭 I’m currently working on [The frontend Expert Challenge from AlgoExpert](https://github.com/ErikaJPB/Frontend-Questions)  
   
 
 - 🌱 I’m currently learning Typescript and Tailwind.  
