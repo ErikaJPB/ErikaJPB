@@ -15,12 +15,13 @@
 - 🌱 I’m currently learning Typescript and Tailwind and practicing both with a new personal project called [BookCove](https://github.com/ErikaJPB/Book-Finder).  
   
 
-- 📧 You can reach me at: erikajpinedab@gmail.com or 
-🔗Visit my [LinkedIn](https://www.linkedin.com/in/erikajpb/)
+- 📧 You can reach me at: erikajpinedab@gmail.com
+  
+- 🔗 Visit my [LinkedIn](https://www.linkedin.com/in/erikajpb/) or [Portfolio](https://developer-portfolio-ejpb.vercel.app/)
   
   
 
-- ⚡ Fun fact: I can't remove🧛🏻‍♂️ from my VS Code because everything looks better in purple.   
+- ⚡ Fun fact: I can't remove🧛🏻‍♂️from my VS Code because everything looks better in purple.   
   
 
 <br/>  
