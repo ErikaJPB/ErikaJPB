@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [The frontend Expert Challenge from AlgoExpert](https://github.com/ErikaJPB/Frontend-Questions)  
   
 
-- 🌱 I’m currently learning Typescript and Tailwind and practicing both with a new personal project called [BookCove](https://github.com/ErikaJPB/Book-Finder).  
+- 🌱 I’m currently mastering Typescript, Tailwind and Next.js 13 and I'm building my own social Network project called [Connect](https://github.com/ErikaJPB/connect-app).  
   
 
 - 📧 You can reach me at: erikajpinedab@gmail.com
