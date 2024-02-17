@@ -9,10 +9,10 @@
 
 <br/> 
 
-- 🔭 I’m currently expanding my knowledge in Frontend Frameworks. Learning Angular 👩🏻‍💻📚💻.  
+- 🔭 I’m currently expanding my knowledge in Frontend Frameworks. Learning Angular and Vue.js 👩🏻‍💻📚💻.  
   
 
-- 🌱 I’m building my own social Network project called [Connect](https://github.com/ErikaJPB/connect-app).  
+- 🌱 I’m collaborating as a Frontend developer in an app for PetyCard.  
   
 
 - 📧 You can reach me at: erikajpinedab@gmail.com
